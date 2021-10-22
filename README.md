@@ -10,8 +10,7 @@ The file ddpg.ipynb implements the Discrete Deterministic Policy Gradient algori
 
 
 ## Citations
-```
 [1] Tassa, Yuval & Doron, Yotam & Muldal, Alistair & Erez, Tom & Li, Yazhe & Casas, Diego & Budden, David & Abdolmaleki, Abbas & Merel, Josh & Lefrancq, Andrew & Lillicrap, Timothy & Riedmiller, Martin. (2018). DeepMind Control Suite
 
 [2] Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D. & Wierstra, D. (2016). Continuous control with deep reinforcement learning.. In Y. Bengio & Y. LeCun (eds.), ICLR, .
-```
+
