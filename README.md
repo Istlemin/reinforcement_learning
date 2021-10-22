@@ -4,7 +4,7 @@ This repository contains my implementations of RL algorithms applied to the dm_c
 
 ## DDPG
 
-The file ddpg.ipynb implements the Discrete Deterministic Policy Gradient algorithm, presented in [2]. After ~300000 iterations it gets the following result on the cartpole swingup task:
+The file ddpg.ipynb implements the Deep Deterministic Policy Gradient algorithm, presented in [2]. After ~300000 iterations it gets the following result on the cartpole swingup task:
 
 ![ddpg_swingup](images/ddpg_swingup.png)
 
